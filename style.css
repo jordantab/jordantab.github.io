@@ -5,3 +5,10 @@ p{
 label{
     color:red;
 }
+#banner {
+    background-image: url("jordantab.github.io/Media/IMG_1065.JPG");
+    background-size: cover;
+    background-position: bottom center;
+    width: 100%;
+    height: 700px;
+  }
