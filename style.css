@@ -5,6 +5,10 @@ h1{
 label{
     color:red;
 }
+body {
+    background-color: white;
+    font-family: 'Raleway', sans-serif;
+  }
 #banner {
     background-image: url("jordantab.github.io/Media/IMG_1065.JPG");
     background-size: cover;
