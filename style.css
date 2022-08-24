@@ -12,7 +12,7 @@ body {
     font-family: 'Raleway';
   }
 #banner {
-    background-image: url('./Media/marmon.PNG');
+    background-image: url('./Media/airport.jpg');
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -28,7 +28,7 @@ body {
 }
 
 .together {
-    background-image: url('./Media/alex_show.JPG');
+    background-image: url('./Media/sunset_together.PNG');
     background-size: cover;
     background-position: center;
     width: 100%;
