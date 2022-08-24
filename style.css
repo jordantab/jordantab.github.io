@@ -6,11 +6,11 @@ label{
     color:red;
 }
 body {
-    background-color: antiquewhite;
+    background-color: rgb(249, 244, 237);
     font-family: 'Raleway', sans-serif;
   }
 .banner {
-    background-image: url('jordantab.github.io/IMG_1065.JPG');
+    background-image: url('https://content.codecademy.com/courses/web-101/unit-6/htmlcss1-img_tahoe.jpeg');
     background-size: cover;
     background-position: center;
     width: 100%;
