@@ -1,2 +1,2 @@
 # jordantab.github.io
-Website
+First HTML/CSS Project for Alex's Birthday
